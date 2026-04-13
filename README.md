@@ -1,4 +1,4 @@
-# 🚀 DevOps Portfolio – Miguel
+## 🚀 DevOps Portfolio – Miguel
 
 Welcome to my DevOps Engineering portfolio. Below are hands-on projects demonstrating real-world DevOps practices.
 
