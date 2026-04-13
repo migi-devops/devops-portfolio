@@ -2,7 +2,9 @@
 
 Welcome to my DevOps Engineering portfolio. Below are hands-on projects demonstrating real-world DevOps practices.
 
+
 ## 🔧 Projects
+
 
 ### 🟢 Java Maven Application
 
@@ -12,12 +14,14 @@ Welcome to my DevOps Engineering portfolio. Below are hands-on projects demonstr
 
 👉 Repo: https://
 
+
 ### 🟢 Jenkins CI/CD Pipeline
 
 * Declarative pipeline
 * Automated build, test, deploy stages
 
 👉 Repo: https://
+
 
 ### 🟢 Dockerized Application
 
@@ -26,6 +30,7 @@ Welcome to my DevOps Engineering portfolio. Below are hands-on projects demonstr
 
 👉 Repo: https://
 
+
 ### 🟢 Kubernetes Deployment
 
 * Deployment + Service YAML
@@ -33,12 +38,14 @@ Welcome to my DevOps Engineering portfolio. Below are hands-on projects demonstr
 
 👉 Repo: https://
 
+
 ### 🟢 Terraform AWS Infrastructure
 
 * Provisioned EC2, VPC
 * Infrastructure as Code
 
 👉 Repo: https://
+
 
 ## 🧠 Skills Demonstrated
 
@@ -48,8 +55,8 @@ Welcome to my DevOps Engineering portfolio. Below are hands-on projects demonstr
 * Infrastructure as Code (Terraform)
 * Version Control (Git & GitHub)
 
+
 ## 📌 Goal
 
 To become a DevOps Engineer and build scalable, automated cloud infrastructure.
 
----
