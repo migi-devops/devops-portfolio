@@ -1,50 +1,76 @@
-## 🚀 DevOps Portfolio – Miguel
+# DevOps Portfolio
 
-Welcome to my DevOps Engineering portfolio. Below are hands-on projects demonstrating real-world DevOps practices.
+A collection of hands-on DevOps projects built during my TechWorld with Nana DevOps Bootcamp.
 
-### 🔧 Projects
+Each project focuses on a real-world DevOps scenario including CI/CD, build automation, Docker, Jenkins, cloud, infrastructure automation, Kubernetes, and monitoring.
 
-#### 🟢 Java Maven Application
+---
 
-* Built using Maven
-* Integrated with Jenkins CI pipeline
-* Automated build and deployment
+## Projects at a glance
 
-👉 Repo: https://
+| # | Project | Core topics | Stack |
+|---|---------|-------------|-------|
+| 1 | [Build Automation & CI/CD with Jenkins](https://github.com/migi-devops/java-maven-app) | CI/CD, Jenkins pipeline, Docker image build, Maven versioning | Jenkins · Docker · Java · Maven · GitHub · Groovy |
+| 2 | Coming soon | AWS deployment | AWS · EC2 · Docker · Jenkins |
+| 3 | Coming soon | Kubernetes deployment | Kubernetes · Docker · Jenkins |
+| 4 | Coming soon | Infrastructure as Code | Terraform · AWS |
+| 5 | Coming soon | Configuration Management | Ansible · AWS |
+| 6 | Coming soon | Monitoring & Automation | Prometheus · Python · Grafana |
 
-#### 🟢 Jenkins CI/CD Pipeline
+---
 
-* Declarative pipeline
-* Automated build, test, deploy stages
+## 1. Build Automation & CI/CD with Jenkins
 
-👉 Repo: https://
+**Repo:** [java-maven-app](https://github.com/migi-devops/java-maven-app)
 
-#### 🟢 Dockerized Application
+Built a Jenkins CI/CD pipeline for a Java Maven application.
 
-* Containerized Java app
-* Dockerfile + best practices
+### What this project does
 
-👉 Repo: https://
+- Builds a Java Maven application
+- Increments the application version automatically
+- Builds a Docker image
+- Pushes the image to Docker Hub
+- Commits the updated version back to GitHub
+- Uses GitHub webhook triggers
+- Uses Jenkins credentials securely
+- Integrates a Jenkins Shared Library
 
-#### 🟢 Kubernetes Deployment
+### Technologies used
 
-* Deployment + Service YAML
-* Scalable container orchestration
+- Jenkins
+- Docker
+- Java
+- Maven
+- GitHub
+- Groovy
+- Linux
 
-👉 Repo: https://
+### Key lessons learned
 
-#### 🟢 Terraform AWS Infrastructure
+- How Jenkins pipelines work
+- How to debug Jenkinsfile syntax errors
+- How to manage GitHub tokens and Jenkins credentials
+- How to avoid CI commit loops
+- How to automate build and Docker image publishing
 
-* Provisioned EC2, VPC
-* Infrastructure as Code
+---
 
-👉 Repo: https://
+## Jenkins Shared Library
 
-#### 🧠 Skills Demonstrated
+**Repo:** [jenkins-shared-library](https://github.com/migi-devops/jenkins-shared-library)
 
-* CI/CD (Jenkins)
-* Containerization (Docker)
-* Orchestration (Kubernetes)
-* Infrastructure as Code (Terraform)
-* Version Control (Git & GitHub)
+Created reusable Groovy functions to reduce repeated logic inside Jenkins pipelines.
 
+---
+
+## Skills covered
+
+| Area | Technologies |
+|------|--------------|
+| CI/CD | Jenkins, Jenkinsfile, Multibranch Pipeline |
+| Build Automation | Maven |
+| Containers | Docker |
+| Source Control | Git, GitHub |
+| Pipeline Scripting | Groovy |
+| Secrets | Jenkins Credentials |
