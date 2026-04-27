@@ -15,8 +15,6 @@ Each project focuses on a real-world DevOps scenario including CI/CD, build auto
 | 5 | Coming soon | Configuration Management | Ansible · AWS |
 | 6 | Coming soon | Monitoring & Automation | Prometheus · Python · Grafana |
 
----
-
 ## 1. Build Automation & CI/CD with Jenkins
 
 **Repo:** [java-maven-app](https://github.com/migi-devops/java-maven-app)
@@ -52,15 +50,11 @@ Built a Jenkins CI/CD pipeline for a Java Maven application.
 - How to avoid CI commit loops
 - How to automate build and Docker image publishing
 
----
-
 ## Jenkins Shared Library
 
 **Repo:** [jenkins-shared-library](https://github.com/migi-devops/jenkins-shared-library)
 
 Created reusable Groovy functions to reduce repeated logic inside Jenkins pipelines.
-
----
 
 ## Skills covered
 
