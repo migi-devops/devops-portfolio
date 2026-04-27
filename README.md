@@ -1,6 +1,6 @@
 # DevOps Portfolio
 
-A collection of hands-on DevOps projects built during my TechWorld with Nana DevOps Bootcamp. Each project focuses on a real-world DevOps scenario including CI/CD, build automation, Docker, Jenkins, cloud, infrastructure automation, Kubernetes, and monitoring.
+A collection of hands-on DevOps projects built during my [TechWorld with Nana DevOps Bootcamp](https://www.techworld-with-nana.com/devops-bootcamp). Each project focuses on a real-world DevOps scenario including CI/CD, build automation, Docker, Jenkins, cloud, infrastructure automation, Kubernetes, and monitoring.
 
 ## Projects at a glance
 
@@ -19,8 +19,6 @@ A collection of hands-on DevOps projects built during my TechWorld with Nana Dev
 
 Built a Jenkins CI/CD pipeline for a Java Maven application.
 
-### What this project does
-
 - Builds a Java Maven application
 - Increments the application version automatically
 - Builds a Docker image
@@ -30,37 +28,15 @@ Built a Jenkins CI/CD pipeline for a Java Maven application.
 - Uses Jenkins credentials securely
 - Integrates a Jenkins Shared Library
 
-### Technologies used
-
-- Jenkins
-- Docker
-- Java
-- Maven
-- GitHub
-- Groovy
-- Linux
-
-### Key lessons learned
-
-- How Jenkins pipelines work
-- How to debug Jenkinsfile syntax errors
-- How to manage GitHub tokens and Jenkins credentials
-- How to avoid CI commit loops
-- How to automate build and Docker image publishing
-
-## Jenkins Shared Library
-
-**Repo:** [jenkins-shared-library](https://github.com/migi-devops/jenkins-shared-library)
-
-Created reusable Groovy functions to reduce repeated logic inside Jenkins pipelines.
-
 ## Skills covered
 
 | Area | Technologies |
 |------|--------------|
 | CI/CD | Jenkins, Jenkinsfile, Multibranch Pipeline |
-| Build Automation | Maven |
-| Containers | Docker |
-| Source Control | Git, GitHub |
-| Pipeline Scripting | Groovy |
-| Secrets | Jenkins Credentials |
+| Containers | Docker, Docker Compose |
+| Orchestration | Kubernetes (EKS, LKE), kubectl |
+| Infrastructure as Code | Terraform (AWS VPC, EC2, EKS) |
+| Configuration Management | Ansible (playbooks, roles, dynamic inventory) |
+| Cloud | AWS, Digital Ocean |
+| Scripting & Automation | Python, Bash, Groovy |
+| Security | Secrets management, RBAC, `.gitignore` for sensitive files |
