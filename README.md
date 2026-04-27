@@ -15,7 +15,7 @@ A collection of hands-on DevOps projects built during my [TechWorld with Nana De
 
 ## 1. Build Automation & CI/CD with Jenkins
 
-**Repo:** [java-maven-app](https://github.com/migi-devops/java-maven-app)
+[![Repo](https://img.shields.io/badge/GitHub-Repo-blue)](https://github.com/migi-devops/java-maven-app)
 
 Built a Jenkins CI/CD pipeline for a Java Maven application.
 
