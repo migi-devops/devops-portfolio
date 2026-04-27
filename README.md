@@ -1,8 +1,6 @@
 # DevOps Portfolio
 
-A collection of hands-on DevOps projects built during my TechWorld with Nana DevOps Bootcamp.
-
-Each project focuses on a real-world DevOps scenario including CI/CD, build automation, Docker, Jenkins, cloud, infrastructure automation, Kubernetes, and monitoring.
+A collection of hands-on DevOps projects built during my TechWorld with Nana DevOps Bootcamp. Each project focuses on a real-world DevOps scenario including CI/CD, build automation, Docker, Jenkins, cloud, infrastructure automation, Kubernetes, and monitoring.
 
 ## Projects at a glance
 
