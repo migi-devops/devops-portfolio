@@ -1,8 +1,8 @@
-# DevOps Portfolio
+### DevOps Portfolio
 
 A collection of hands-on DevOps projects built during my [TechWorld with Nana DevOps Bootcamp](https://www.techworld-with-nana.com/devops-bootcamp). Each project focuses on a real-world DevOps scenario including CI/CD, build automation, Docker, Jenkins, cloud, infrastructure automation, Kubernetes, and monitoring.
 
-## Projects at a glance
+#### Projects at a glance
 
 | # | Project | Core topics | Stack |
 |---|---------|-------------|-------|
@@ -13,7 +13,7 @@ A collection of hands-on DevOps projects built during my [TechWorld with Nana De
 | 5 | Coming soon | Configuration Management | Ansible · AWS |
 | 6 | Coming soon | Monitoring & Automation | Prometheus · Python · Grafana |
 
-## 1. Build Automation & CI/CD with Jenkins
+#### 1. Build Automation & CI/CD with Jenkins
 
 [![Repo](https://img.shields.io/badge/GitHub-Repo-blue)](https://github.com/migi-devops/java-maven-app)
 
@@ -28,7 +28,7 @@ Built a Jenkins CI/CD pipeline for a Java Maven application.
 - Uses Jenkins credentials securely
 - Integrates a Jenkins Shared Library
 
-## Skills covered
+#### Skills covered
 
 | Area | Technologies |
 |------|--------------|
