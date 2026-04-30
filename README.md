@@ -1,8 +1,10 @@
-### DevOps Portfolio
+### DevOps Portfolio - Miguel
 
-A collection of hands-on DevOps projects built during my [TechWorld with Nana DevOps Bootcamp](https://www.techworld-with-nana.com/devops-bootcamp). Each project focuses on a real-world DevOps scenario including CI/CD, build automation, Docker, Jenkins, cloud, infrastructure automation, Kubernetes, and monitoring.
+I design and build CI/CD pipelines and cloud-ready systems, with a focus on reliability, automation, and real-world troubleshooting.
 
-#### Projects at a glance
+This portfolio showcases hands-on DevOps projects that simulate production scenarios—covering pipeline failures, infrastructure constraints, and secure system design.
+
+#### Featured Projects
 
 | # | Project | Core topics | Stack |
 |---|---------|-------------|-------|
@@ -17,7 +19,7 @@ A collection of hands-on DevOps projects built during my [TechWorld with Nana De
 
 [![Repo](https://img.shields.io/badge/GitHub-Repo-blue)](https://github.com/migi-devops/java-maven-app)
 
-Built a Jenkins CI/CD pipeline for a Java Maven application.
+Designed and implemented a Jenkins-based CI/CD pipeline for a Java application, focusing on automation, version control, and containerized delivery.
 
 - Builds a Java Maven application
 - Increments the application version automatically
@@ -37,6 +39,14 @@ Built a Jenkins CI/CD pipeline for a Java Maven application.
 | Orchestration | Kubernetes (EKS, LKE), kubectl |
 | Infrastructure as Code | Terraform (AWS VPC, EC2, EKS) |
 | Configuration Management | Ansible (playbooks, roles, dynamic inventory) |
-| Cloud | AWS, Digital Ocean |
+| Cloud | AWS, (ECR, EC2, EKS), Digital Ocean |
 | Scripting & Automation | Python, Bash, Groovy |
 | Security | Secrets management, RBAC, `.gitignore` for sensitive files |
+
+**Connect With Me**
+
+LinkedIn: https://www.linkedin.com/in/e-miguel
+
+**Acknowledgment**
+
+Some projects were inspired by structured DevOps learning resources, including the TechWorld with Nana bootcamp. All implementations, debugging, and enhancements were completed independently to reflect real-world scenarios.
