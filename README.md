@@ -1,52 +1,86 @@
-### DevOps Portfolio - Miguel
+### 🚀 DevOps Portfolio – Miguel
 
-I design and build CI/CD pipelines and cloud-ready systems, with a focus on reliability, automation, and real-world troubleshooting.
+I build and evolve a production-style DevOps system, focusing on CI/CD, cloud infrastructure, and automation.
 
-This portfolio showcases hands-on DevOps projects that simulate production scenarios—covering pipeline failures, infrastructure constraints, and secure system design.
+This portfolio is structured as a real-world DevOps lifecycle — starting from build automation and progressing toward fully automated cloud-native deployments on AWS.
 
-#### Featured Projects
+---
 
-| # | Project | Core topics | Stack |
-|---|---------|-------------|-------|
-| 1 | [Build Automation & CI/CD with Jenkins](https://github.com/migi-devops/java-maven-app) | CI/CD, Jenkins pipeline, Docker image build, Maven versioning | Jenkins · Docker · Java · Maven · GitHub · Groovy |
-| 2 | Coming soon | AWS deployment | AWS · EC2 · Docker · Jenkins |
-| 3 | Coming soon | Kubernetes deployment | Kubernetes · Docker · Jenkins |
-| 4 | Coming soon | Infrastructure as Code | Terraform · AWS |
-| 5 | Coming soon | Configuration Management | Ansible · AWS |
-| 6 | Coming soon | Monitoring & Automation | Prometheus · Python · Grafana |
+#### ⚙️ DevOps System Overview
 
-#### 1. Build Automation & CI/CD with Jenkins
+This portfolio represents a complete DevOps pipeline architecture in progress:
+
+CI/CD → Cloud Deployment → Kubernetes → Infrastructure as Code → Automation → Monitoring
+
+Each project builds on the previous one, simulating how systems evolve in real engineering environments.
+
+#### 🔥 Current Stage
+
+#### 🚨 CI/CD Pipeline (Completed)
 
 [![Repo](https://img.shields.io/badge/GitHub-Repo-blue)](https://github.com/migi-devops/java-maven-app)
 
-Designed and implemented a Jenkins-based CI/CD pipeline for a Java application, focusing on automation, version control, and containerized delivery.
+Designed and implemented a Jenkins-based CI/CD pipeline that:
 
-- Builds a Java Maven application
-- Increments the application version automatically
-- Builds a Docker image
-- Pushes the image to Docker Hub
-- Commits the updated version back to GitHub
-- Uses GitHub webhook triggers
-- Uses Jenkins credentials securely
-- Integrates a Jenkins Shared Library
+- Builds and packages a Java application (Maven)
+- Implements automated versioning
+- Builds Docker images with traceable tags
+- Pushes images to a container registry
+- Uses GitHub webhooks for automated triggers
+- Manages credentials securely in Jenkins
+- Integrates Jenkins Shared Library
 
-#### Skills covered
+💡 Key Focus:
+Reliability, automation, and debugging real pipeline failures
 
-| Area | Technologies |
-|------|--------------|
-| CI/CD | Jenkins, Jenkinsfile, Multibranch Pipeline |
-| Containers | Docker, Docker Compose |
-| Orchestration | Kubernetes (EKS, LKE), kubectl |
-| Infrastructure as Code | Terraform (AWS VPC, EC2, EKS) |
-| Configuration Management | Ansible (playbooks, roles, dynamic inventory) |
-| Cloud | AWS, (ECR, EC2, EKS), Digital Ocean |
-| Scripting & Automation | Python, Bash, Groovy |
-| Security | Secrets management, RBAC, `.gitignore` for sensitive files |
+#### 🔄 System Evolution (In Progress)
 
-**Connect With Me**
+Instead of isolated projects, I am extending this system step-by-step:
+
+#### ☁️ Phase 2 – Cloud Deployment (Next)
+- Deploy application to AWS EC2
+- Integrate CI/CD pipeline with cloud infrastructure
+- Manage access using IAM
+
+#### ☸️ Phase 3 – Kubernetes Orchestration
+- Deploy containerized application to Kubernetes
+- Manage services, deployments, and scaling
+
+#### 🏗️ Phase 4 – Infrastructure as Code
+- Provision infrastructure using Terraform (AWS)
+- Automate environment setup
+
+#### ⚙️ Phase 5 – Configuration Management
+- Configure infrastructure using Ansible
+- Automate server provisioning and application setup
+
+#### 📊 Phase 6 – Monitoring & Automation
+- Implement monitoring with Prometheus & Grafana
+- Automate operational tasks using Python
+
+#### 🧪 Real Engineering Focus
+
+This portfolio emphasizes real-world DevOps challenges:
+
+- CI/CD failures (credentials, syntax, infrastructure)
+- Pipeline reliability and automation
+- System scalability and cloud readiness
+
+#### ☁️ AWS Alignment
+
+This system is designed to align with AWS architecture:
+
+- Jenkins → EC2 / AWS CodePipeline
+- Docker images → Amazon ECR
+- Deployment → EKS (Kubernetes)
+- Infrastructure → Terraform (AWS)
+
+#### 📌 Acknowledgment
+
+Projects are based on structured learning from the TechWorld with Nana DevOps Bootcamp.
+
+However, all implementations, debugging, and enhancements are done independently, focusing on real-world engineering scenarios rather than tutorial replication.
+
+#### 📬 Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/e-miguel
-
-**Acknowledgment**
-
-Some projects were inspired by structured DevOps learning resources, including the TechWorld with Nana bootcamp. All implementations, debugging, and enhancements were completed independently to reflect real-world scenarios.
