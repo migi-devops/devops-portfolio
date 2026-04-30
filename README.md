@@ -33,6 +33,22 @@ Designed and implemented a Jenkins-based CI/CD pipeline that:
 💡 Key Focus:
 Reliability, automation, and debugging real pipeline failures
 
+#### ⚙️ Current Tech Stack
+
+- Jenkins
+- Docker
+- Maven
+- GitHub
+- Groovy
+
+#### 🔄 Expanding Into
+
+- AWS (EC2, ECR, EKS)
+- Kubernetes
+- Terraform
+- Ansible
+- Monitoring
+
 #### 🔄 System Evolution (In Progress)
 
 Instead of isolated projects, I am extending this system step-by-step:
@@ -75,11 +91,16 @@ This system is designed to align with AWS architecture:
 - Deployment → EKS (Kubernetes)
 - Infrastructure → Terraform (AWS)
 
-#### 📌 Acknowledgment
+#### 📌 Learning Approach
 
-Projects are based on structured learning from the TechWorld with Nana DevOps Bootcamp.
+This portfolio is built using structured DevOps training from TechWorld with Nana.
 
-However, all implementations, debugging, and enhancements are done independently, focusing on real-world engineering scenarios rather than tutorial replication.
+Instead of replicating tutorials, I focus on:
+- debugging failures
+- modifying implementations
+- understanding production implications
+
+The goal is to simulate real DevOps engineering scenarios.
 
 #### 📬 Connect With Me
 
