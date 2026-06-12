@@ -1,106 +1,175 @@
 ### 🚀 DevOps Portfolio – Miguel
 
-I build and evolve a production-style DevOps system, focusing on CI/CD, cloud infrastructure, and automation.
+I build and operate production-style DevOps systems focused on automation, CI/CD, cloud infrastructure, containerization, and Kubernetes.
 
-This portfolio is structured as a real-world DevOps lifecycle — starting from build automation and progressing toward fully automated cloud-native deployments on AWS.
+This portfolio documents the evolution of a modern DevOps platform — from application build automation through cloud deployment and container orchestration.
 
 ---
 
-#### ⚙️ DevOps System Overview
+#### ⚙️ DevOps Platform Roadmap
 
-This portfolio represents a complete DevOps pipeline architecture in progress:
+This portfolio follows a real-world engineering progression:
 
-CI/CD → Cloud Deployment → Kubernetes → Infrastructure as Code → Automation → Monitoring
+CI/CD → AWS Cloud → Kubernetes → Infrastructure as Code → Configuration Management → Monitoring & Automation
 
-Each project builds on the previous one, simulating how systems evolve in real engineering environments.
+Each project extends the previous one, simulating how production systems evolve over time.
 
-#### 🔥 Current Stage
+---
 
-#### 🚨 CI/CD Pipeline (Completed)
+#### ✅ Completed Projects
+
+#### 🚨 CI/CD Pipeline with Jenkins
 
 [![Repo](https://img.shields.io/badge/GitHub-Repo-blue)](https://github.com/migi-devops/java-maven-app)
 
-Designed and implemented a Jenkins-based CI/CD pipeline that:
+Designed and implemented a Jenkins-based CI/CD pipeline for a Java application.
 
-- Builds and packages a Java application (Maven)
-- Implements automated versioning
-- Builds Docker images with traceable tags
-- Pushes images to a container registry
-- Uses GitHub webhooks for automated triggers
-- Manages credentials securely in Jenkins
-- Integrates Jenkins Shared Library
+Key capabilities:
 
-💡 Key Focus:
-Reliability, automation, and debugging real pipeline failures
+- Automated Maven builds and packaging
+- Automated application versioning
+- Docker image creation and tagging
+- Docker Hub integration
+- Jenkins Shared Library implementation
+- GitHub Webhook integration
+- Secure credential management
+- Automated deployment workflows
 
-#### ⚙️ Current Tech Stack
+#### Key Technologies
 
 - Jenkins
-- Docker
 - Maven
+- Docker
 - GitHub
 - Groovy
 
-#### 🔄 Expanding Into
+#### Engineering Experience Gained
 
-- AWS (EC2, ECR, EKS)
+- Pipeline troubleshooting and recovery
+- Docker build and deployment failures
+- Git workflow and branch management
+- Version automation
+- CI/CD reliability improvements
+- Build agent maintenance and cleanup
+
+---
+
+#### ☁️ AWS DevOps Foundation
+
+#### Repository:
+
+[![Repo](https://img.shields.io/badge/GitHub-Repo-blue)](https://github.com/migi-devops/aws-devops-pipeline)
+
+Extended the CI/CD platform into AWS infrastructure.
+
+Implemented and worked with:
+
+- AWS IAM
+- EC2
+- Amazon ECR
+- VPC fundamentals
+- Security Groups
+- Jenkins deployment to EC2
+- Docker image publishing to ECR
+- AWS CLI integration
+
+#### Key Technologies
+
+- AWS IAM
+- EC2
+- Amazon ECR
+- VPC
+- Security Groups
+- AWS CLI
+- Jenkins
+
+#### Engineering Experience Gained
+
+- Cloud infrastructure provisioning
+- Secure access management
+- Container registry operations
+- Cloud deployment workflows
+- Network and security fundamentals
+
+---
+
+#### 🔥 Current Focus
+
+#### ☸️ Kubernetes
+
+#### Repository:
+
+[![Repo](https://img.shields.io/badge/GitHub-Repo-blue)](https://github.com/migi-devops/kubernetes)
+
+Currently building and deploying containerized applications using Kubernetes.
+
+Areas being explored:
+
+- Pods
+- Deployments
+- Services
+- Namespaces
+- ConfigMaps
+- Secrets
+- Ingress
+- Kubernetes Dashboard
+- Application networking
+- Container orchestration
+
+#### Current Technologies
+
 - Kubernetes
+- Minikube
+- kubectl
+- Docker
+
+---
+
+#### 🔄 Upcoming Platform Expansion
+
+#### 🏗️ Infrastructure as Code
+
+Planned technologies:
+
 - Terraform
+- AWS Infrastructure Provisioning
+- Environment Automation
+
+#### ⚙️ Configuration Management
+
+Planned technologies:
+
 - Ansible
-- Monitoring
+- Server Configuration Automation
+- Application Provisioning
 
-#### 🔄 System Evolution (In Progress)
+#### 📊 Monitoring & Observability
 
-Instead of isolated projects, I am extending this system step-by-step:
+Planned technologies:
 
-#### ☁️ Phase 2 – Cloud Deployment (Next)
-- Deploy application to AWS EC2
-- Integrate CI/CD pipeline with cloud infrastructure
-- Manage access using IAM
+Prometheus
+Grafana
+Alerting
+Operational Dashboards
 
-#### ☸️ Phase 3 – Kubernetes Orchestration
-- Deploy containerized application to Kubernetes
-- Manage services, deployments, and scaling
+---
 
-#### 🏗️ Phase 4 – Infrastructure as Code
-- Provision infrastructure using Terraform (AWS)
-- Automate environment setup
+#### 🧪 Engineering Approach
 
-#### ⚙️ Phase 5 – Configuration Management
-- Configure infrastructure using Ansible
-- Automate server provisioning and application setup
+This portfolio focuses on practical engineering rather than tutorial replication.
 
-#### 📊 Phase 6 – Monitoring & Automation
-- Implement monitoring with Prometheus & Grafana
-- Automate operational tasks using Python
+Key areas include:
 
-#### 🧪 Real Engineering Focus
+- Troubleshooting production-style failures
+- Infrastructure automation
+- CI/CD reliability
+- Cloud deployment workflows
+- Container orchestration
+- Operational problem solving
 
-This portfolio emphasizes real-world DevOps challenges:
+---
 
-- CI/CD failures (credentials, syntax, infrastructure)
-- Pipeline reliability and automation
-- System scalability and cloud readiness
-
-#### ☁️ AWS Alignment
-
-This system is designed to align with AWS architecture:
-
-- Jenkins → EC2 / AWS CodePipeline
-- Docker images → Amazon ECR
-- Deployment → EKS (Kubernetes)
-- Infrastructure → Terraform (AWS)
-
-#### 📌 Learning Approach
-
-This portfolio is built using structured DevOps training from TechWorld with Nana.
-
-Instead of replicating tutorials, I focus on:
-- debugging failures
-- modifying implementations
-- understanding production implications
-
-The goal is to simulate real DevOps engineering scenarios.
+Projects include both successful implementations and documented troubleshooting scenarios to demonstrate real-world DevOps practices.
 
 #### 📬 Connect With Me
 
