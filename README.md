@@ -147,10 +147,10 @@ Planned technologies:
 
 Planned technologies:
 
-Prometheus
-Grafana
-Alerting
-Operational Dashboards
+- Prometheus
+- Grafana
+- Alerting
+- Operational Dashboards
 
 ---
 
