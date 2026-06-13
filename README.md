@@ -18,7 +18,7 @@ Each project extends the previous one, simulating how production systems evolve 
 
 #### ✅ Completed Projects
 
-#### 🚨 CI/CD Pipeline with Jenkins
+#### 🚨 Build Automation & CI/CD with Jenkins
 
 [![Repo](https://img.shields.io/badge/GitHub-Repo-blue)](https://github.com/migi-devops/java-maven-app)
 
@@ -54,7 +54,7 @@ Key capabilities:
 
 ---
 
-#### ☁️ AWS DevOps Foundation
+#### ☁️ AWS Services
 
 #### Repository:
 
@@ -95,7 +95,7 @@ Implemented and worked with:
 
 #### 🔥 Current Focus
 
-#### ☸️ Kubernetes
+#### ☸️ Container Orchestration with Kubernetes
 
 #### Repository:
 
