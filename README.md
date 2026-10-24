@@ -97,6 +97,10 @@ Implemented and worked with:
 
 #### ☸️ Container Orchestration with Kubernetes
 
+#### Repository:
+
+[![Repo](https://img.shields.io/badge/GitHub-Repo-blue)](https://github.com/migi-devops/kubernetes)
+
 Building and managing containerized applications using Kubernetes, progressing from foundational orchestration concepts to multi-service deployments, configuration management, container registry integration, and Helm-based application management.
 
 This chapter extends my previous CI/CD and AWS experience into Kubernetes, focusing on how containerized applications are deployed, configured, connected, and operated within a cluster.
