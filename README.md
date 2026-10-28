@@ -62,7 +62,3 @@ My projects focus on practical implementation and operational understanding, inc
 Detailed implementation notes, architecture diagrams, troubleshooting records, and screenshots are maintained within each project's repository.
 
 ---
-
-#### 📬 Connect With Me
-
-**[LinkedIn](https://www.linkedin.com/in/e-miguel)**
