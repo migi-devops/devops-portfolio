@@ -23,7 +23,7 @@ Building practical experience across the DevOps lifecycle, from application deli
 | 🚀 Java Maven CI/CD Pipeline | Jenkins, Maven, Docker, GitHub | Automated builds, versioning, containerization, and pipeline troubleshooting | [View Project](https://github.com/migi-devops/java-maven-app) |
 | ☁️ AWS DevOps Pipeline | AWS EC2, ECR, Jenkins, Docker | Cloud infrastructure, automated deployment, and container delivery | [View Project](https://github.com/migi-devops/aws-devops-pipeline) |
 | ☸️ Kubernetes — MongoDB & Mongo Express | Kubernetes, Minikube, Docker | Application deployment, Secrets, ConfigMaps, networking, and troubleshooting | [View Project](https://github.com/migi-devops/kubernetes/tree/main/demo-deploying-application) |
-| 📦 Kubernetes — Helm & Microservices | Kubernetes, Helm, Docker | Multi-service orchestration and Helm-based deployment *(in progress)* | [View Repository](https://github.com/migi-devops/kubernetes/tree/main/helm-demo) |
+| 📦 Kubernetes — Helm & Microservices | Kubernetes, Helm, Docker | Multi-service orchestration and Helm-based deployment *(in progress)* | [Repository](https://github.com/migi-devops/kubernetes/tree/main/helm-demo) |
 
 ---
 
