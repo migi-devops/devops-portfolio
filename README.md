@@ -30,35 +30,12 @@ Building practical experience across the DevOps lifecycle, from application deli
 #### 🛠️ Technical Skills
 
 | Area | Technologies |
-|---|---|
-| CI/CD & Automation | Jenkins, GitHub, Groovy, Maven |
-| Cloud Infrastructure | AWS EC2, IAM, ECR, VPC |
-| Containers & Orchestration | Docker, Kubernetes, Minikube, Helm |
-| Version Control | Git, GitHub |
-| Scripting & CLI | Bash, PowerShell, AWS CLI, kubectl |
-| Currently Learning | Terraform, Ansible, Prometheus, Grafana |
-
----
-
-#### 🔄 Current Focus
-
-**Container Orchestration with Kubernetes**
-
-Currently progressing through Kubernetes application deployments, service networking, configuration management, and Helm-based microservices orchestration.
-
-Upcoming areas include Infrastructure as Code, configuration automation, and monitoring.
-
----
-
-#### 🧪 Engineering Approach
-
-My projects focus on practical implementation and operational understanding, including:
-
-- Building repeatable deployment workflows
-- Troubleshooting infrastructure and application failures
-- Improving deployment reliability and automation
-- Documenting technical decisions, resolutions, and verification evidence
-
-Detailed implementation notes, architecture diagrams, troubleshooting records, and screenshots are maintained within each project's repository.
-
----
+|------|--------------|
+| CI/CD | Jenkins, Jenkinsfile, Multibranch Pipeline |
+| Containers | Docker, Docker Compose |
+| Orchestration | Kubernetes (EKS, LKE), kubectl |
+| Infrastructure as Code | Terraform (AWS VPC, EC2, EKS) |
+| Configuration Management | Ansible (playbooks, roles, dynamic inventory) |
+| Cloud | AWS, Digital Ocean |
+| Scripting & Automation | Python, Bash, Groovy |
+| Security | Secrets management, RBAC, `.gitignore` for sensitive files |
